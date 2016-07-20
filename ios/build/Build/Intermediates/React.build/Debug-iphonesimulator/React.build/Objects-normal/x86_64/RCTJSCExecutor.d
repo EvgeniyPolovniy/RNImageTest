@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/derron/Sites/rnImage/node_modules/react-native/React/Executors/RCTJSCWrapper.h
